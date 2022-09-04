@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @d4gold
-- 👀 I’m interested in technology
-- 🌱 I’m currently learning coding
-- 💞️ I’m looking to collaborate on projects
+- 👀 I’m interested in Technology
+- 🌱 I’m currently learning Coding
+- 💞️ I’m looking to collaborate on Projects
 - 📫 How to reach me ... @d4gold
 
 <!---
